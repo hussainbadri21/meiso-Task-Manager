@@ -5,7 +5,7 @@
 
 > Task Management app for managing projects and tasks.
 
-### 🏠 [Homepage](https://hussainhmc.tech/meiso)
+### 🏠 [Homepage](https://hussainhmc.tech)
 
 ## Instructions to install dependencies for the project
 
