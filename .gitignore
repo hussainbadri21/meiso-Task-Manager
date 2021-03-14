@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+client/.DS_Store
+
+.DS_Store
+
+server/config/keys.js
